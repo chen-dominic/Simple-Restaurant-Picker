@@ -1,7 +1,3 @@
-# Assignment 1: RANDOM RESTAURANT PICKER
-# Dominic Chen
-# Student ID: 501172557
-
 # A problem I have, as well as many others, is the inablity to make a choice.
 # For my assignment, I created a program that prompts the user to input a list
 # of restaurants, including the cusine, and the program will choose one restaurant
